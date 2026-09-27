@@ -1,1 +1,1 @@
-Welcome to the DevOps Lab (feature)
+Welcome to the DevOps Lab
